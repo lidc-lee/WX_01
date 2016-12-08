@@ -13,7 +13,7 @@ import shelve
 
 # 创建文件夹
 # .当前目录下；..上一级目录下
-# os.makedirs('.\\lee')
+os.makedirs('.\\lee')
 str = "E:\\study\\python脚本\\WX_01\\text.txt"
 
 path = os.path.join("E:\\study\\python脚本\\WX_01", "text.txt")
