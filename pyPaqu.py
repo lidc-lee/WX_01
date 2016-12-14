@@ -4,7 +4,7 @@
 @version: ??
 @author: AA-ldc
 @license: Apache Licence 
-@file: pyRequest.py
+@file: pyPaqu.py
 @time: 2016/12/9 11:29
 爬虫
 """
